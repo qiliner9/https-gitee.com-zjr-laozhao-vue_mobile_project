@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 1,
+      "title": "小米mi",
+      "thumb_path": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/mv1.jpg",
+      "sell_price": "666"
+    },
+    {
+      "id": 2,
+      "title": "apple苹果",
+      "thumb_path": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/mv2.jpg",
+      "sell_price": "3999"
+    }
+  ]
+}

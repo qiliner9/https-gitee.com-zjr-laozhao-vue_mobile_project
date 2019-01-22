@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 1,
+      "img_url": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/mv1.jpg",
+      "title": "小米",
+      "sell_price": "999",
+      "market_price": "1233",
+      "stock_quantity": "60"
+    },
+    {
+      "id": 2,
+      "img_url": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/mv2.jpg",
+      "title": "苹果",
+      "sell_price": "3999",
+      "market_price": "5233",
+      "stock_quantity": "160"
+    },
+    {
+      "id": 3,
+      "img_url": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/love.jpg",
+      "title": "华为",
+      "sell_price": "1999",
+      "market_price": "2233",
+      "stock_quantity": "20"
+    }
+    
+    
+  ]
+}

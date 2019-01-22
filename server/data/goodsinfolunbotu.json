@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "src": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/mv1.jpg"
+    },
+    {
+      "src": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/mv2.jpg"
+    },
+    {
+      "src": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/love.jpg"
+    },
+    {
+      "src": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/tian.jpg"
+    }
+  ]
+}

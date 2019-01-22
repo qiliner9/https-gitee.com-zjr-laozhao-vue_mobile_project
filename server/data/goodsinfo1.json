@@ -1,0 +1,14 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 1,
+      "add_time": "2018-4-24 15:26:20",
+      "title": "小米mi",
+      "goods_no": "si21233424",
+      "sell_price": "666",
+      "market_price": "3456",
+      "stock_quantity": "60"
+    }
+  ]
+}

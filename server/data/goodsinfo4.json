@@ -1,0 +1,14 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 4,
+      "add_time": "2018-4-24 15:26:20",
+      "title": "华为666",
+      "goods_no": "si21233424",
+      "sell_price": "1888",
+      "market_price": "2233",
+      "stock_quantity": "20"
+    }
+  ]
+}

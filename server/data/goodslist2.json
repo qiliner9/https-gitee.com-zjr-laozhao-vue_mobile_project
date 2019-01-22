@@ -1,0 +1,21 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 4,
+      "img_url": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/tian.jpg",
+      "title": "华为666",
+      "sell_price": "1888",
+      "market_price": "2233",
+      "stock_quantity": "20"
+    },
+    {
+      "id": 5,
+      "img_url": "https://vuedata-m-1258458508.cos.ap-beijing.myqcloud.com/mv1.jpg",
+      "title": "微软",
+      "sell_price": "900",
+      "market_price": "1633",
+      "stock_quantity": "20"
+    }
+  ]
+}

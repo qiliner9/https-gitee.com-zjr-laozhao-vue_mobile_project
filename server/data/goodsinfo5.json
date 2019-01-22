@@ -1,0 +1,14 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 5,
+      "add_time": "2018-4-24 15:26:20",
+      "title": "微软",
+      "goods_no": "si21233424",
+      "sell_price": "900",
+      "market_price": "1633",
+      "stock_quantity": "20"
+    }
+  ]
+}
