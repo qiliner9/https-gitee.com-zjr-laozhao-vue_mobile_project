@@ -54,7 +54,7 @@ import swiper from '@/components/subcomponents/swiper'
 
 
 
-// import { Toast } from "mint-ui";
+import { Toast } from "mint-ui";
 export default {
   data() {
     return {
@@ -68,7 +68,7 @@ export default {
     getLunbotu() {
       // 获取轮播图数据;
       this.$http.get("api/lunbotu").then(result => {
-        if (result.body.status === 0) {
+        if (result.body.status === 2) {
           // console.log(result.body)
           this.lunbotuList = result.body.message;
           // console.log(this.lunbotuList)
