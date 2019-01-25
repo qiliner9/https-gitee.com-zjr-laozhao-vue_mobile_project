@@ -68,7 +68,7 @@ export default {
     getLunbotu() {
       // 获取轮播图数据;
       this.$http.get("api/lunbotu").then(result => {
-        if (result.body.status === 2) {
+        if (result.body.status === 0) {
           // console.log(result.body)
           this.lunbotuList = result.body.message;
           // console.log(this.lunbotuList)
