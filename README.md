@@ -1,6 +1,6 @@
 # 这是一个移动端 vue 项目，
 
-## 注意：先运行 根目录 下 server 文件夹下的 app.js 作为 node 服务器，然后运行 dist 文件夹下的 index.html 可以看到整个项目 的功能。如果开发者模式需要首先 cnpm i 安装依赖包
+## 注意：先运行 根目录 server 文件夹下的 app.js 作为 node 服务器(命令行： node app )，然后运行 dist 文件夹下的 index.html 可以看到整个项目 的功能。如果开发者模式需要首先 cnpm i 安装依赖包, 然后运行 npm run dev 可启动项目，数据都是从node服务器获取的，所以需要先启动服务器
 
 ## 一个有节操 懂浪漫的程序猿
 
